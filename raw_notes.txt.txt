@@ -1,0 +1,62 @@
+RAW NOTES:
+
+What is the cloud?
+The cloud means remote servers on the internet used to store data instead of your local computer hard drive.   
+
+What is cloud computing?
+Cloud computing is the delivery of computing services like servers, storage, and software over the internet.   
+
+What is cloud storage?
+Cloud storage is an online service like Google Drive that lets you save files safely on a remote internet server.   
+
+What is a virtual machine?
+A virtual machine is a software-based computer that runs inside a physical computer and acts like an independent system.   
+
+Why do companies move data to the cloud?
+Companies move to the cloud to save money on physical hardware and to access their data easily from anywhere.   
+
+What is the difference between a local server and a cloud server?
+A local server is kept physically in your office, while a cloud server is located in a remote data center.   
+
+What does SaaS stand for?
+SaaS stands for Software as a Service, meaning you use applications directly over the internet like Gmail or Netflix.   
+
+What is the main benefit of cloud computing?
+The main benefit is scalability, allowing you to instantly increase or decrease your storage without buying hardware.   
+
+Is the cloud safe for storing personal data?
+Yes, cloud providers use strong encryption and updates, making it safer than a personal laptop that can be stolen.   
+
+What is a cloud data center?
+A cloud data center is a massive physical building filled with thousands of servers that host internet services.   
+
+What is hybrid cloud?
+A hybrid cloud is an environment that connects and mixes both private and public cloud infrastructures together.   
+
+What does public cloud mean?
+A public cloud is a service where infrastructure is owned by a provider like AWS and shared among multiple customers.   
+
+What is a private cloud?
+A private cloud is cloud infrastructure used exclusively by one single organization for better control and security.   
+
+What is the difference between data backup and cloud backup?
+Data backup copies files to a local external drive, while cloud backup sends files to a secure server over the internet.   
+
+What is PaaS in simple words?
+PaaS stands for Platform as a Service, providing a ready platform with tools for developers to build applications easily.   
+
+What is IaaS in cloud computing?
+IaaS stands for Infrastructure as a Service, where you rent basic resources like raw storage and virtual servers online.   
+
+What is a cloud console?
+A cloud console is a web dashboard provided by AWS or Google to easily manage your virtual resources from a browser.   
+
+Why is internet speed important for the cloud?
+Internet speed is critical because all data moves over the web, so a fast network ensures quick access to your files.   
+
+What is a cloud service provider?
+A cloud service provider is a company like Microsoft, Amazon, or Google that rents out computing power and storage.   
+
+What is the benefit of using Google Drive?
+The benefit is that your files are saved online, letting you open and edit them from any phone or laptop instantly.
+
